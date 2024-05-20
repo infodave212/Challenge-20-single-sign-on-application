@@ -31,7 +31,7 @@ function NavBar(){
                 </ul>
 
                 <div class="mt-lg-0 mt-3 mb-4 mb-lg-0">
-                    <a href="#" class="custom-btn btn" download>Download CV</a>
+                    <a href="#" class="custom-btn btn" download>Download Resume</a>
                 </div>
             </div>
 
