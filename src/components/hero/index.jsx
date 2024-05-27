@@ -16,7 +16,7 @@ function Hero(){
                    <h1 class="hero-title">👋 David's, a digital nomad</h1>
 
                    <a href="#" class="email-link">
-                       infodave@gmail.com
+                       infodave212@gmail.com
                    </a>
                  
                </div>
