@@ -543,6 +543,11 @@ https://www.tooplate.com/view/2120-ben-resume
   .social-links a:hover {
     color: var(--dark-color);
   }
+  /* .profile-list strong{
+    display:block;
+    margin:0;
+    padding:0;
+  } */
 
 
   /*---------------------------------------

@@ -5,65 +5,64 @@ function Testimonial(){
                <div class="row">
 
                     <div class="col-12">
-                        <h3 class="mb-5 text-center">What People say</h3>
+                        <h3 class="mb-5 text-center">Projects portfolio</h3>
 
-                        <div class="owl-carousel owl-theme" id="testimonials-carousel">
-                            <div class="item">
+                        <div class="row ">
+                            <div class="col-sm-6">
                                 <div class="testimonials-thumb d-flex">
                                     <div class="testimonials-image">
-                                        <img src="images/testimonials/testimonial-image01.jpg" class="img-fluid" alt="testimonials image"/>
+                                        <img src="images/Scheduler.jpg" class="img-fluid" alt="testimonials image"/>
                                     </div>
 
                                     <div class="testimonials-info">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+                                        <p>Note Taker</p>
 
-                                        <h6 class="mb-0">Ben</h6>
-                                        <span>Art Director</span>
+                                        <h6 class="mb-0">Note Taker</h6>
+                                        <span>Note-Taker</span>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="item">
+                            <div class="col-sm-6">
                                 <div class="testimonials-thumb d-flex">
                                     <div class="testimonials-image">
-                                        <img src="images/testimonials/testimonial-image02.jpg" class="img-fluid" alt="testimonials image"/>
+                                        <img src="images/camping.jpg" class="img-fluid" alt="testimonials image"/>
                                     </div>
 
                                     <div class="testimonials-info">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
-
-                                        <h6 class="mb-0">Marie</h6>
-                                        <span>Marketing Consultant</span>
+                                        <p></p>
+                                        <h6 class="mb-0">Texas Camping ground</h6>
+                                        <span>camping</span>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="item">
+                            <div class="col-sm-6">
                                 <div class="testimonials-thumb d-flex">
                                     <div class="testimonials-image">
-                                        <img src="images/testimonials/testimonial-image03.jpg" class="img-fluid" alt="testimonials image"/>
+                                        <img src="images/weather.jpg" class="img-fluid" alt="testimonials image"/>
                                     </div>
 
                                     <div class="testimonials-info">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+                                        <p>Weather Dashboard.</p>
 
-                                        <h6 class="mb-0">Jen</h6>
-                                        <span>Product Manager</span>
+                                        <h6 class="mb-0"></h6>
+                                        <span>weather</span>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="item">
+                            <div class="col-sm-6">
                                 <div class="testimonials-thumb d-flex">
                                     <div class="testimonials-image">
-                                        <img src="images/testimonials/testimonial-image04.jpg" class="img-fluid" alt="testimonials image"/>
+                                        <img src="images/questions.jpg" class="img-fluid" alt="testimonials image"/>
                                     </div>
 
                                     <div class="testimonials-info">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+                                        <p>what is JavaScript?.</p>
 
-                                        <h6 class="mb-0">Wilson</h6>
-                                        <span>Web Developer</span>
+                                        <h6 class="mb-0">quiz</h6>
+                                        <span>javaScript</span>
                                     </div>
                                 </div>
                             </div>
