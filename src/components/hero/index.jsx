@@ -13,7 +13,7 @@ function Hero(){
           <div class="d-flex flex-column justify-content-center align-items-center col-lg-7 col-md-7 col-12">
                <div class="hero-text">
 
-                   <h1 class="hero-title">👋 David's, a digital nomad</h1>
+                   <h1 class="hero-title">👋 David's digital portfolio</h1>
 
                    <a href="#" class="email-link">
                        infodave212@gmail.com
